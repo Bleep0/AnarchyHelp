@@ -1,0 +1,8 @@
+name: AnarchyHelp
+main: Bleepo8973.Bleepo
+version: 1.8
+description: A simple help command for anarchy servers.
+commands:
+  help:
+    description: Server help
+    usage: /<command>
